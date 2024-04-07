@@ -1,0 +1,21 @@
+{
+  "name": "orago-warm",
+  "displayName": "orago-warm",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orago's Warm Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orago's Warm Theme-color-theme.json"
+      }
+    ]
+  }
+}
